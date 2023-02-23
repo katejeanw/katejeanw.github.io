@@ -37,7 +37,7 @@ reproducible research, and interactive data visualization.
 [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
 [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-[github](https://github.com/kbroman)<br/>
+<!-- [github](https://github.com/kbroman)<br/>
 <a rel="me" href="https://fosstodon.org/@kbroman">mastodon</a><br/>
 [blog](https://kbroman.org/blog/) <br/>
 he/him
@@ -71,4 +71,4 @@ he/him
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div>
     </div>
-</div> -->
+</div> --> -->
