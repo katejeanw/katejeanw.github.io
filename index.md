@@ -5,17 +5,6 @@ description: Kate Wall is a mathematics PhD student at Tufts University. They ar
 keywords: Wall
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/wall_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/katejeanw">github</a></li>
-          <li><a href="https://www.instagram.com/kate.sews/">sewing</a></li>
-          <li><a href="https://twitter.com/katejeanw">twitter</a></li>
-      </ul>
-  </div>
-</div>
-
 <table class="wide">
 <tr>
   <td class="left">
@@ -54,11 +43,3 @@ keywords: Wall
   </td>
 </tr>
 </table>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="morefigs.html">more figures</a></li>
-      </ul>
-  </div>
-</div>
