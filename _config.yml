@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Kate Wall
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
+  name : Kate Wall
+  email : kate.wall@tufts.edu
+  github : katejeanw
   feedburner : nil
 
-production_url : https://kbroman.github.io
+production_url : https://katejeanw.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
