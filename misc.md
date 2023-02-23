@@ -3,4 +3,6 @@ layout: frontpage
 title: Broman et al. (2015) Fig 7
 ---
 
-sewing page
+# misc 
+
+wildflowers, bats, and frogs
