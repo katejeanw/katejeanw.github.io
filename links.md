@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: about page
+title: links and contact
 ---
 
 # links & contact
