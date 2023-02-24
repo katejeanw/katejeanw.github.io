@@ -1,3 +1,8 @@
+---
+layout: frontpage
+title: about page
+---
+
 # links & contact
 
 ### links
