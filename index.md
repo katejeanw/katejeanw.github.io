@@ -7,36 +7,36 @@ keywords: Wall
 
 <div class="row">
   <div class="column">
-    <img src="publpics/about.jpeg">
-    <img src="publpics/gender.jpeg">
-    <img src="publpics/sewing.jpeg">
-    <img src="publpics/misc.jpeg">
-    <img src="publpics/research.jpeg">
-    <img src="publpics/moose.jpeg">
+    <img src="publpics/about.jpeg" style="width:100%">
+    <img src="publpics/gender.jpeg" style="width:100%">
+    <img src="publpics/sewing.jpeg" style="width:100%">
+    <img src="publpics/misc.jpeg" style="width:100%">
+    <img src="publpics/research.jpeg" style="width:100%">
+    <img src="publpics/moose.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="publpics/sewing.jpeg">
-    <img src="publpics/research.jpeg">
-    <img src="publpics/about.jpeg">
-    <img src="publpics/misc.jpeg">
-    <img src="publpics/gender.jpeg">
-    <img src="publpics/moose.jpeg">
+    <img src="publpics/sewing.jpeg" style="width:100%">
+    <img src="publpics/research.jpeg" style="width:100%">
+    <img src="publpics/about.jpeg" style="width:100%">
+    <img src="publpics/misc.jpeg" style="width:100%">
+    <img src="publpics/gender.jpeg" style="width:100%">
+    <img src="publpics/moose.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="publpics/about.jpeg">
-    <img src="publpics/gender.jpeg">
-    <img src="publpics/sewing.jpeg">
-    <img src="publpics/misc.jpeg">
-    <img src="publpics/moose.jpeg">
-    <img src="publpics/research.jpeg">
+    <img src="publpics/about.jpeg" style="width:100%">
+    <img src="publpics/gender.jpeg" style="width:100%">
+    <img src="publpics/sewing.jpeg" style="width:100%">
+    <img src="publpics/misc.jpeg" style="width:100%">
+    <img src="publpics/moose.jpeg" style="width:100%">
+    <img src="publpics/research.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="publpics/moose.jpeg">
-    <img src="publpics/misc.jpeg">
-    <img src="publpics/research.jpeg">
-    <img src="publpics/about.jpeg">
-    <img src="publpics/gender.jpeg">
-    <img src="publpics/sewing.jpeg">
+    <img src="publpics/moose.jpeg" style="width:100%">
+    <img src="publpics/misc.jpeg" style="width:100%">
+    <img src="publpics/research.jpeg" style="width:100%">
+    <img src="publpics/about.jpeg" style="width:100%">
+    <img src="publpics/gender.jpeg" style="width:100%">
+    <img src="publpics/sewing.jpeg" style="width:100%">
   </div>
 </div>
 
