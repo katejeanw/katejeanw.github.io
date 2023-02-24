@@ -10,7 +10,6 @@ keywords: Wall
 </head>
 
 v5
-
 <section class="fotogrid">
   <div class="row">
     <div class="column">
@@ -20,13 +19,8 @@ v5
         </a>
       </div>
       <div class="tile">
-        <a href="gender.html">
-          <img src="publpics/gender.jpeg" alt="protest pic" title="where" style="width:100%"/>
-        </a>
-      </div>
-      <div class="tile">
-        <a href="moose.html">
-          <img src="publpics/moose.jpeg" alt="moose in hanky" title="can i find this" style="width:100%"/>
+        <a href="sewing.html">
+          <img src="publpics/sewing.jpeg" alt="sewing machine" title="idk" style="width:100%"/>
         </a>
       </div>
     </div>
@@ -37,8 +31,15 @@ v5
         </a>
       </div>
       <div class="tile">
-        <a href="sewing.html">
-          <img src="publpics/sewing.jpeg" alt="sewing machine" title="idk" style="width:100%"/>
+        <a href="moose.html">
+          <img src="publpics/moose.jpeg" alt="moose in hanky" title="can i find this" style="width:100%"/>
+        </a>
+      </div>
+    </div>
+    <div class="column">
+      <div class="tile">
+        <a href="gender.html">
+          <img src="publpics/gender.jpeg" alt="protest pic" title="where" style="width:100%"/>
         </a>
       </div>
       <div class="tile">
@@ -49,3 +50,4 @@ v5
     </div>
   </div>
 </section>
+
