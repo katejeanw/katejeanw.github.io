@@ -9,7 +9,9 @@ keywords: Wall
 <link rel="stylesheet" type="text/css" href="wall.css" />
 </head>
 
-v5
+v6
+
+
 <section class="fotogrid">
   <div class="row">
     <div class="column">
@@ -19,15 +21,8 @@ v5
         </a>
       </div>
       <div class="tile">
-        <a href="sewing.html">
-          <img src="publpics/sewing.jpeg" alt="sewing machine" title="idk" style="width:100%"/>
-        </a>
-      </div>
-    </div>
-    <div class="column">
-      <div class="tile">
-        <a href="research.html">
-          <img src="publpics/research.jpeg" alt="roots pic" title="huh 2" style="width:100%"/>
+        <a href="gender.html">
+          <img src="publpics/gender.jpeg" alt="protest pic" title="where" style="width:100%"/>
         </a>
       </div>
       <div class="tile">
@@ -38,8 +33,13 @@ v5
     </div>
     <div class="column">
       <div class="tile">
-        <a href="gender.html">
-          <img src="publpics/gender.jpeg" alt="protest pic" title="where" style="width:100%"/>
+        <a href="research.html">
+          <img src="publpics/research.jpeg" alt="roots pic" title="huh 2" style="width:100%"/>
+        </a>
+      </div>
+      <div class="tile">
+        <a href="sewing.html">
+          <img src="publpics/sewing.jpeg" alt="sewing machine" title="idk" style="width:100%"/>
         </a>
       </div>
       <div class="tile">
@@ -50,4 +50,3 @@ v5
     </div>
   </div>
 </section>
-
