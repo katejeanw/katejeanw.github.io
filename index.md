@@ -5,6 +5,11 @@ description: Kate Wall is a mathematics PhD student at Tufts University. They ar
 keywords: Wall
 ---
 
+<head>
+<link rel="stylesheet" type="text/css" href="wall.css" />
+</head>
+
+
 <h1>Responsive Image Grid Example</h1>
 <div class="outer-grid">
   <div class="inner-grid">
