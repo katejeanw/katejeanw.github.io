@@ -5,6 +5,43 @@ description: Kate Wall is a mathematics PhD student at Tufts University. They ar
 keywords: Wall
 ---
 
+<div class="row">
+  <div class="column">
+    <img src="publpics/about.jpeg">
+    <img src="publpics/gender.jpeg">
+    <img src="publpics/sewing.jpeg">
+    <img src="publpics/misc.jpeg">
+    <img src="publpics/research.jpeg">
+    <img src="publpics/moose.jpeg">
+  </div>
+  <div class="column">
+    <img src="publpics/sewing.jpeg">
+    <img src="publpics/research.jpeg">
+    <img src="publpics/about.jpeg">
+    <img src="publpics/misc.jpeg">
+    <img src="publpics/gender.jpeg">
+    <img src="publpics/moose.jpeg">
+  </div>
+  <div class="column">
+    <img src="publpics/about.jpeg">
+    <img src="publpics/gender.jpeg">
+    <img src="publpics/sewing.jpeg">
+    <img src="publpics/misc.jpeg">
+    <img src="publpics/moose.jpeg">
+    <img src="publpics/research.jpeg">
+  </div>
+  <div class="column">
+    <img src="publpics/moose.jpeg">
+    <img src="publpics/misc.jpeg">
+    <img src="publpics/research.jpeg">
+    <img src="publpics/about.jpeg">
+    <img src="publpics/gender.jpeg">
+    <img src="publpics/sewing.jpeg">
+  </div>
+</div>
+
+
+
 <section class="fotogrid">
   <div class="row">
     <div class="column">
