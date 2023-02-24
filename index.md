@@ -6,7 +6,7 @@ keywords: Wall
 ---
 
 <head>
-<link rel="stylesheet" type="text/css" href="wall.css" />
+<link rel="stylesheet" type="text/css" href="wall.css" media="all" />
 </head>
 
 <section class="fotogrid">
