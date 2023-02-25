@@ -1,8 +1,10 @@
 ---
 layout: frontpage
-title: Broman et al. (2015) Fig 7
+title: Kate Wall — moose
 ---
 
 # MOOOOOSE
 
 The best kitty in existence. The reason the feline species exists. Moose. 
+
+(link to instagram)

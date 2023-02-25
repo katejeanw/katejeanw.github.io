@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: research
+title: Kate Wall — research
 ---
 
 # research 

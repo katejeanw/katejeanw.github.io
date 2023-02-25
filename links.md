@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: links and contact
+title: Kate Wall — links and contact
 ---
 
 # links & contact
