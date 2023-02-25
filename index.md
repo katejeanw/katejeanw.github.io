@@ -14,7 +14,7 @@ keywords: Wall
     <div class="column">
       <div class="tile">
         <a href="about.html">
-          <img src="publpics/about.jpeg" alt="picture of me carrying my cat in his backpack carrier" title="about my math and other interests" style="width:100%"/>
+          <img src="publpics/about.jpeg" alt="picture of me carrying my cat in his backpack carrier" title="about me, my education, and my hobbies" style="width:100%"/>
         </a>
       </div>
       <div class="tile">
@@ -41,7 +41,7 @@ keywords: Wall
       </div>
       <div class="tile">
         <a href="misc.html">
-          <img src="publpics/misc.jpeg" alt="flowers" title="call me beep me if you wanna reach me" style="width:100%"/>
+          <img src="publpics/misc.jpeg" alt="flowers" title="see my pictures of wildflowers, bat boxes, amphibians, and more" style="width:100%"/>
         </a>
       </div>
     </div>
