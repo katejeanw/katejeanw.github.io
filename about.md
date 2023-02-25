@@ -2,7 +2,7 @@
 layout: frontpage
 title: Kate Wall — about
 ---
-<h1>about me (left)</h1>
+# about me
 
 <img src="publpics/ice_cream.jpg" style="float:left; margin:16px;" width="40%"/>
 <br>
