@@ -6,6 +6,7 @@ title: Kate Wall — links and contact
 # links & contact
 
 ### links
+check out my code and other interests
 <a href="https://github.com/katejeanw" target="_blank">github</a><br>
 <a href="https://www.linkedin.com/in/katejwall/" target="_blank">linkedin</a><br>
 <a href="https://twitter.com/katejeanw" target="_blank">twitter</a><br>
